@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lesson_one</string>
+    <string name="something">something</string>
+    <string name="name">name</string>
+    <string name="numberPassword">numberPassword</string>
+    <string name="textMultiline">textMultiline</string>
+    <string name="textEmailAddress">textEmailAddress</string>
+    <string name="textPersonMame">textPersonName</string>
+    <string name="phone">phone</string>
+    <string name="number">number</string>
+    <string name="textPassword">textPassword</string>
+    <string name="calendar">calendar</string>
+</resources>
